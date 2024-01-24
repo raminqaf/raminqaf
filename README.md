@@ -9,7 +9,7 @@ Roasting all the bugs 🐛 bit by bit 👾
 
 📫 How to reach me:
   - https://www.linkedin.com/in/ramin-gharib-266983129/
-  - Email 📧
+  - Email 📧 ramingharib@gmail.com
 
 <!--
 **raminqaf/raminqaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
