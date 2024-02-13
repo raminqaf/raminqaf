@@ -3,7 +3,7 @@
 A software and data engineer at bakdata.
 I work on building data pipelines and distributed processing with Apache Kafka.
 I enjoy DevOps and the deployment of distributed processing to the cloud.
-I am an active open-source developer contributing tools for the Apache Kafka ecosystem.
+I am an active open-source developer contributing tools to the Apache Kafka ecosystem.
 
 Roasting all the bugs 🐛 bit by bit 👾
 
