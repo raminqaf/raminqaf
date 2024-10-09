@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-A software engineer specializing in distributed systems and data streaming. Proficient in Java, Python, and Kotlin, I have developed scalable real-time analytics platforms and improved system performance at bakdata. My open-source contributions include projects like [Apache Kafka](https://github.com/apache/kafka) and [Testcontainers](https://github.com/testcontainers/testcontainers-java). I have presented at major conferences and conducted workshops on stream processing. 
-I hold an M.Sc. in IT Systems Engineering from the Hasso Plattner Institute and am skilled in various DevOps and data processing technologies. I am dedicated to advancing big data systems and distributed computing.
+I'm Ramin, a software engineer focusing on distributed systems and real-time data streaming. I specialize in building scalable Kafka stream applications at bakdata, integrating them into robust streaming data pipelines. With expertise in Java, Python, and Kotlin, I actively contribute to open-source projects like Apache Kafka and Testcontainers.
+
+I've had the privilege of presenting at major tech conferences and stream processing workshops. I hold an M.Sc. in IT Systems Engineering from the Hasso Plattner Institute. I'm skilled in a range of DevOps and data engineering technologies. My passion lies in advancing the field of big data systems and distributed computing.
 
 Roasting all the bugs 🐛 bit by bit 👾
 
